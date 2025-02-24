@@ -112,49 +112,62 @@ B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
 
-**Answers**
-**Dart & Flutter**
-#### 1. What is the first step for installing Dart on a Windows machine?
 
-**Answer: B) Download the Dart SDK**
-Which command verifies the Dart installation on macOS?
 
-**Answer: D) dart --version**
-What is the next step after downloading and extracting the Flutter SDK on Linux?
+## **Environment Setup Assignment**
+This assignment covers the setup of **Dart, Flutter, Python, and MySQL**.
 
-**Answer: B) Update your PATH**
-What command is used to run a newly created Flutter app?
+---
 
-**Answer: C) flutter run**
-Python Installation
-What is the first step to install Python on a Windows system?
+### **Dart & Flutter**
 
-**Answer: B) Download Python from the official website**
-Which option should you ensure is checked during Python installation on Windows?
+#### **1. What is the first step for installing Dart on a Windows machine?**  
+✅ **Answer:** **B) Download the Dart SDK**  
 
-**Answer: C) Add Python to PATH**
-How do you verify Python installation on any system?
+#### **2. Which command verifies the Dart installation on macOS?**  
+✅ **Answer:** **D) dart --version**  
 
-**Answer: A) By running python --version**
-What command is used to install pip on macOS and Linux?
+#### **3. What is the next step after downloading and extracting the Flutter SDK on Linux?**  
+✅ **Answer:** **B) Update your PATH**  
 
-**Answer: C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py**
-What is the purpose of a virtual environment in Python?
+#### **4. What command is used to run a newly created Flutter app?**  
+✅ **Answer:** **C) flutter run**  
 
-**Answer: C) To separate project dependencies and avoid conflicts**
-MySQL Installation
-What is the first step to install MySQL on Windows?
+---
 
-**Answer: B) Download MySQL Installer from the official website**
-What setup type should you choose for a custom MySQL installation?
+### **Python Installation**
 
-**Answer: D) Custom**
-Which products should you select during the MySQL installation?
+#### **5. What is the first step to install Python on a Windows system?**  
+✅ **Answer:** **B) Download Python from the official website**  
 
-**Answer: A) MySQL Server, MySQL Workbench, and MySQL Shell**
-What is the purpose of setting a root password during MySQL installation?
+#### **6. Which option should you ensure is checked during Python installation on Windows?**  
+✅ **Answer:** **C) Add Python to PATH**  
 
-**Answer: B) To secure your MySQL installation with a super-secret password**
-How do you begin managing your database after installing MySQL?
+#### **7. How do you verify Python installation on any system?**  
+✅ **Answer:** **A) By running python --version**  
 
-**Answer: B) Launch MySQL Workbench and connect to your MySQL Server**
+#### **8. What command is used to install pip on macOS and Linux?**  
+✅ **Answer:** **C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py**  
+
+#### **9. What is the purpose of a virtual environment in Python?**  
+✅ **Answer:** **C) To separate project dependencies and avoid conflicts**  
+
+---
+
+### **MySQL Installation**
+
+#### **10. What is the first step to install MySQL on Windows?**  
+✅ **Answer:** **B) Download MySQL Installer from the official website**  
+
+#### **11. What setup type should you choose for a custom MySQL installation?**  
+✅ **Answer:** **D) Custom**  
+
+#### **12. Which products should you select during the MySQL installation?**  
+✅ **Answer:** **A) MySQL Server, MySQL Workbench, and MySQL Shell**  
+
+#### **13. What is the purpose of setting a root password during MySQL installation?**  
+✅ **Answer:** **B) To secure your MySQL installation with a super-secret password**  
+
+#### **14. How do you begin managing your database after installing MySQL?**  
+✅ **Answer:** **B) Launch MySQL Workbench and connect to your MySQL Server**  
+
